@@ -127,3 +127,4 @@
 /home/kylesams/Documents/Files/160/Backend/Note App/Note Backend/Note.API/obj/Debug/net8.0/ref/Note.API.dll
 /home/kylesams/Documents/Files/160/Backend/Note App/Note Backend/Note.API/bin/Debug/net8.0/AutoMapper.dll
 /home/kylesams/Documents/Files/160/Backend/Note App/Note Backend/Note.API/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/kylesams/Documents/Files/160/Backend/Note App/Note Backend/Note.API/obj/Debug/net8.0/Note.API.sourcelink.json
